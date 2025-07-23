@@ -327,7 +327,18 @@ footer a {
     flex-direction: column;
     align-items: center;
   }
+ .testimonial {
+  display: none !important;
 }
+.testimonial {
+  width: 100% !important;
+  text-align: center !important;
+}
+
+
+
+}
+
 
 
 .left,
